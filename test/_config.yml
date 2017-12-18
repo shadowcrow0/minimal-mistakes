@@ -12,8 +12,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "A Mozillian Study Psychology"
 title_separator          : "-"
-name                     : &name "Ying-Yu, Lora, Chen" # &name is a YAML anchor which can be *referenced later
-description              : &description "Psychologist @open source."
+name                     : "Ying-Yu, Lora, Chen" # &name is a YAML anchor which can be *referenced later
+description              : "Psychologist @open source."
 url                      : https://shaodwcrow0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "shadowcrow0/shadowcrow0.github.io"
