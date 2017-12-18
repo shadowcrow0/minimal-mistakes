@@ -10,11 +10,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Minimal Mistakes Development Test Site"
+title                    : "A Mozillian Study Psychology"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Minimal Mistakes theme test."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ying-Yu, Lora, Chen" # &name is a YAML anchor which can be *referenced later
+description              : &description "Psychologist @open source."
+url                      : https://shaodwcrow0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "shadowcrow0/shadowcrow0.github.io"
 baseurl                  : "/test"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
